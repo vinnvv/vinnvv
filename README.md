@@ -73,14 +73,14 @@
 <br/>
 
 ## 📫 Connect With Me
-
 <p align="center">
   <a href="https://github.com/vinnvv">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
-    <img src="[https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)" alt="GitHub Profile" />
+  <a href="https://discord.com/users/prkkvv">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile" />
+  </a>
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e1e,100:000000&height=100&section=footer" alt="Footer" />
 </p>
