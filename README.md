@@ -1,16 +1,18 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e1e1e&height=250&section=header&text=vinnvv&fontSize=80&fontAlignY=35&desc=Fullstack%20Developer%20|%20AI%20Enthusiast%20|%20Systems%20Engineer&descAlignY=55&descAlign=50&fontColor=ffffff" alt="Header" />
 
-# Hi, I'm Vin 👋
+  <h1>Hi, I'm Vin 👋</h1>
   
-<a href="https://github.com/vinnvv">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Fullstack+Developer;AI+%26+Machine+Learning+Enthusiast;Minecraft+Server+Architect;Automation+%26+Systems+Engineer" alt="Typing SVG" />
-</a>
+  <p>
+    <a href="https://github.com/vinnvv">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Fullstack+Developer;AI+%26+Machine+Learning+Enthusiast;Minecraft+Server+Architect;Automation+%26+Systems+Engineer" alt="Typing SVG" />
+    </a>
+  </p>
 
-*I build digital systems, modern websites, game server features, automation tools, and AI-powered workflows.*
-
+  <p><i>I build digital systems, modern websites, game server features, automation tools, and AI-powered workflows.</i></p>
+  
+  ---
 </div>
-
----
 
 ## 🚀 About Me
 
@@ -60,12 +62,12 @@
 ## 📈 GitHub Live Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinnvv&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vinnvv&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=vinnvv&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnvv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinnvv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <br/>
@@ -76,4 +78,8 @@
   <a href="https://github.com/vinnvv">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e1e,100:000000&height=100&section=footer" alt="Footer" />
 </p>
